@@ -1,0 +1,11 @@
+# ninja log v5
+4	608	1665042850229432367	CMakeFiles/AccountNumberSplit.dir/main.cpp.o	3f8043a9ba7d5c2c
+644	705	1665042850329613748	AccountNumberSplit	4ba70d909232e48d
+5	644	1665042850265365952	CMakeFiles/AccountNumberSplit.dir/AccountNumber.cpp.o	383ce3ef79fef4b8
+4	615	1666048475062882304	CMakeFiles/AccountNumberSplit.dir/main.cpp.o	ef4bc99f1deb10d
+4	668	1666048475115920451	CMakeFiles/AccountNumberSplit.dir/AccountNumber.cpp.o	f7b7da6d2c24377e
+668	725	1666048475175927997	AccountNumberSplit	4ba70d909232e48d
+3	552	1666316927626315847	CMakeFiles/AccountNumberSplit.dir/main.cpp.o	ef4bc99f1deb10d
+552	620	1666316927696976743	AccountNumberSplit	4ba70d909232e48d
+4	526	1666316938754953619	CMakeFiles/AccountNumberSplit.dir/main.cpp.o	ef4bc99f1deb10d
+526	582	1666316938811982587	AccountNumberSplit	4ba70d909232e48d
